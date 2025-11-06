@@ -1,0 +1,5 @@
+{
+  "name": "PHP Code Modernizer",
+  "description": "An AI-powered tool to help developers convert legacy PHP code into modern languages like Python, JavaScript, Java, and more, using the Gemini API.",
+  "requestFramePermissions": []
+}
